@@ -21,7 +21,9 @@ Main est la branche sur laquelle on se trouve et head indique le dernier commit 
 Dans notre cas, c'est le commit qui vient d'être effectué.
 Après les parenthèses, on retrouve le message du commit.
 ### Task 6
-
+En faisant un checkout sur le commit initial, le contenu du répertoir est revenu au contenu du début de labo où rien n'a été modifié.
+Lorsque le checkout est refait sur le dernier commit, on a récupéré tous les fichiers grâce au fait que le repo git sauvegarde les modifications
+et on peut donc revenir sur la version la plus récente du répertoir.
 ## Gitgraph
 
 ### Task 7

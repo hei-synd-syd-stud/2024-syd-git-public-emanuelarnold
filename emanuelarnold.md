@@ -16,7 +16,10 @@ On peut voir que le fichier README.md a été modifié sous "Changes not staged 
 qu'il est également sous "Changes to be committed:" en tant que new file.
 
 ### Task 5
-
+La chaîne de caractère au début indique le numéro du commit Hash. C'est l'identifiant unique du commit.
+Main est la branche sur laquelle on se trouve et head indique le dernier commit de la branche en cours de vérification. 
+Dans notre cas, c'est le commit qui vient d'être effectué.
+Après les parenthèses, on retrouve le message du commit.
 ### Task 6
 
 ## Gitgraph

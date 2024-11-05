@@ -27,5 +27,15 @@ et on peut donc revenir sur la version la plus récente du répertoir.
 ## Gitgraph
 
 ### Task 7
-
 ![Gitgraph](img/gitgraph.svg)
+
+1: Nom de la branche sur laquelle on travaille.
+2: short hash du commit.
+3: Message du commit.
+4: Auteur du commit.
+5: Version du main V1.0.0 sur laquelle on travaille.
+6: Position du commit le plus avancé de la branche.
+7: Branche crée a partir du main par CodeQueenCarol pour ajouter des features. Est ensuite mergé dans la branche développement
+8: Dernière version du main qui est push.
+9: Branche développement parallèle au main. Les modifications importantes sont faites sur cette branche puis mergées sur le main.
+10: Commit initial du main. = version 0 du projet.
